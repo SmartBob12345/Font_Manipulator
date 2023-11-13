@@ -1,0 +1,23 @@
+body{
+    background-image: url(800px_COLOURBOX13811323.jpg);
+}
+.header{
+    box-shadow: black 5px 5px 5px 5px;
+    text-align: center;
+    width: 100%;
+}
+canvas{
+    border-radius: 10px;
+    background-color: rgb(152, 203, 211);
+    box-shadow: rgb(134, 134, 191) 5px 5px 0px 0px;
+    border-width: 10px;
+    border-color: rgb(55, 77, 117);
+}
+.copy_right_footer{
+    background-color: rgb(18, 98, 132);
+    letter-spacing: 3px;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
